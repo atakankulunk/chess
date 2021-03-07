@@ -1,2 +1,3 @@
 # chess
-chess code in C
+chess code in C++
+www.atakankulunk.com
